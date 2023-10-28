@@ -4,7 +4,7 @@ Machine Learning course in Udemy with Python. The title of this course is Machin
 # Online Course
 This repository exhibits the projects completed throughout the "Beginner Machine Learning in Python + ChatGPT Bonus" course, which can be found here: 
 
-<a style="width: 200px" href="https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X](https://www.udemy.com/share/101Wci3@YdwRyLrf15oBveE2EeIOoipB-fLKz-BIxSZAe1dFEKFKnHmucLf0Wk8BSbYAvcyIZQ==/)https://www.udemy.com/share/101Wci3@YdwRyLrf15oBveE2EeIOoipB-fLKz-BIxSZAe1dFEKFKnHmucLf0Wk8BSbYAvcyIZQ==/)"><img alt="Introduction to Machine Learning with Python Cover" src="./cover.jpeg" style="width: 200px; height: auto; padding: 10px;"></a>
+<a style="width: 200px" href="https://www.udemy.com/share/101Wci3@YdwRyLrf15oBveE2EeIOoipB-fLKz-BIxSZAe1dFEKFKnHmucLf0Wk8BSbYAvcyIZQ==/"><img alt="Introduction to Machine Learning with Python Cover" src="./cover.jpeg" style="width: 200px; height: auto; padding: 10px;"></a>
 
 
 This course has been designed by two professional Data Scientists so that we can share our knowledge and help you learn complex theory, algorithms and coding libraries in a simple way.
